@@ -1,2 +1,2 @@
-(logo.png)
-(new.png)
+![Logo](logo.png)
+![Logo](logo.png)
